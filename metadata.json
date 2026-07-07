@@ -1,0 +1,6 @@
+{
+  "name": "EducaSmart",
+  "description": "Educational ERP with role-based dashboards, AI assistance, real-time chat, and offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
